@@ -1,3 +1,6 @@
+integrantes:
+a01625357
+
 # Proyecto Fase 2
 
 Estructurado y versionado para fase 2
